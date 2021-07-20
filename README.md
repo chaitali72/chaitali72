@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React project
-- 🌱 I’m currently learning On React Hooks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about My Journey
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there 
+This is the place where I opensource stuff and break things 🤣
+
+🔭 I’m currently working on something cool 😉
+🌱 I’m currently learning Redux
+💬 Ask me about anything related to Javascript/React
+📫 How to reach me: chaitalismahida@gmail.com
+⚡ Fun fact: I ❤️ plants
 

@@ -1,6 +1,6 @@
 ### Hello World, I'm Chaitali  👋
 
- <img align="right" alt="GIF" src="https://github.com/chaitali72//blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src= "https://github.com/chaitali72/chaitali72/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - ✍ You can find my projects here [portfolio]

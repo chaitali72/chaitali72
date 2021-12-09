@@ -7,9 +7,8 @@
 - 🔭 I’m currently working on my MERN Projects.
 - 🌱 I’m currently learning Redux and Aws
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I Just love Plants
+- Pronouns: She/Her
+
 
 
 ### Talk with me:

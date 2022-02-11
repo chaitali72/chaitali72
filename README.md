@@ -5,9 +5,7 @@
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my MERN Projects.
-- 🌱 I’m currently learning Redux and Aws
-- 👯 I’m looking to collaborate on open source
-- Pronouns: She/Her
+
 
 
 

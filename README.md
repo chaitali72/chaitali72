@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src= "https://github.com/chaitali72/chaitali72/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects on [portfolio]
 - 🔭 I’m currently working on my MERN Projects.
 
 

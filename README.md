@@ -51,5 +51,5 @@
 
 [instagram]: https://www.instagram.com/chaitali72/
 [linkedin]: https://www.linkedin.com/in/chaitalimahida/
-[portfolio]: https://reactportfoilio.netlify.app/
+[portfolio]: https://chaitali-dev.vercel.app/
 

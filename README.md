@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f92c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Welcome to my profile! I am a frontend web developer.I build websites using HTML, CSS, Javascript and React. I also know my way around in CMS like Wordpress. I am always trying to find new ways to layout content in interesting and intricate ways – who wants to have boring websites, right? 
-Besides programming, I am interested in music,painting and mindfulness.
+Welcome to my profile! I am a frontend web developer.I am passionate about clean UI and intuitive user experiences. Experienced in building responsive web applications using modern technologies such as HTML, CSS, Sass, JavaScript and React.
 
+I keep accessibility in mind while writing clean, reusable code. I thrive in collaborative environments and enjoy creativeproblem-solving, contributing to positive work experience through communication and time management.
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 

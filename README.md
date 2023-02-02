@@ -78,7 +78,7 @@ I keep accessibility in mind while writing clean, reusable code. I thrive in col
   </a>  
   <a href="chaitalismahida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-  <a href="https://chaitali-dev.vercel.app/"><img src="https://img.shields.io/badge/website-800080?style=for-the-badge&logo=website&logoColor=white">Website</a>
+  <a href="https://chaitali-dev.vercel.app/"><img src="https://img.shields.io/badge/website-2300C4CC?style=for-the-badge&logo=website&logoColor=white"></a>
   </p>
   <h3>Thank you for visiting!</>
 

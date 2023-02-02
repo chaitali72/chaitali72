@@ -83,7 +83,3 @@ I keep accessibility in mind while writing clean, reusable code. I thrive in col
   <h3>Thank you for visiting!</>
 
 
-[instagram]: https://www.instagram.com/chaitali72/
-[linkedin]: https://www.linkedin.com/in/chaitalimahida/
-[portfolio]: https://chaitali-dev.vercel.app/
-
